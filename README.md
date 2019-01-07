@@ -1,4 +1,5 @@
-# This is demo : https://liaoyingkai.github.io/Angular_todoList/dist/ToDOList/
+# todoList demo
+- https://liaoyingkai.github.io/Angular_todoList/dist/ToDOList/
 
 # ToDoList
 
